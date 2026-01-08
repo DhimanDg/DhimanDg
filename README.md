@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @DhimanDg
 - 👀 I’m interested in Gaming 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Snake games
-- 📫 How to reach me Just mail me 
+- 🌱 I’m know python and C++ by heart❤️.
+- Love making apps and working with arduinos🤖
+- 💞️ I’m looking to collaborate to make more apps!
+- 📫 How to reach me Just mail me ➡️ dhimandasgupta1@gmail.com.
+- Oh Btw I made an app using Qt🫣. check it out➡️➡️ https://github.com/DhimanDg/MyfirstApp-QtCalculator-v0.1.
 
 <!---
 DhimanDg/DhimanDg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
